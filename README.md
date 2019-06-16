@@ -5,7 +5,5 @@
 
 2.Fork this git to your personal git
 
-3.Submissions through github?? (Maybe)
-
 
 Intellectual Property of NYU.
